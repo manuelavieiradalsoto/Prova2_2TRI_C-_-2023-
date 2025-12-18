@@ -2,6 +2,7 @@
 Esta é uma prova de Introdução á programação da Fundação Escola Técnica Liberato Salzano Vieira da Cunha.
 
 Descrição:
+
 1.     
 -Elabore um programa que solicite ao usuário para
 digitar uma frase.
