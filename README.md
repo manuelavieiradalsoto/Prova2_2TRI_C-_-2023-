@@ -13,9 +13,13 @@ letras maiúsculas iguais a letras minúsculas.
 2.     
 -Elabore uma função que receba como parâmetro um
 número inteiro e uma letra.
+
 -Dentro da função é exibido o resultado da subtração de 100 -
 número.
+
 -A função retorna o seguinte:
+
 -Se a letra for maiúscula, retorna a mesma letra, porém
 minúscula;
+
 -Se a letra for minúscula, retorna a mesma letra, porém maiúscula;
